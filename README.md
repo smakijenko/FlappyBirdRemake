@@ -1,3 +1,5 @@
+The game was written in C++ using Raylib
+
 Hi, here is the link to watch how the game looks like:
 https://youtu.be/4s7569D2FbY
 
